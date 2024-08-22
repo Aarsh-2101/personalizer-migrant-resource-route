@@ -1,0 +1,19 @@
+SNo,Resource ,Item,Latitude,Longitude ,Addreess,Website,Mobile
+1,Illinois Welcoming Centers,Latino Resource Institute,41.73339791,-87.55141777,"8910 S Commercial Ave, Chicago, IL 60617",www.lrii.org,+1 773-356-5923
+2,Illinois Welcoming Centers,Latino Organization of the Southwest,41.77864001907347,-87.72460787,"4051 W 63rd St, Chicago, IL 60629",,+1 773-581-1900
+3,Illinois Welcoming Centers,United African Organization,41.7844989,-87.62093276,"6042 S Indiana Ave, Chicago, IL 60637",uniteafricans.org,+1 312-949-9980
+4,Illinois Welcoming Centers,Family Focus,41.79607607,-87.5976385,"5467 S University Ave, Chicago, IL 60615",,
+5,Illinois Welcoming Centers,Brighton Park Neighborhood Council,41.81191425,-87.70742368,"4477 S Archer Ave, Chicago, IL 60632",www.bpncchicago.org,+1 773-523-7110
+6,Illinois Welcoming Centers,Xilin Association,41.8495362,-87.63220877,"2354 S Wentworth Ave, Chicago, IL 60616",xilin.org,+1 312-265-1453
+7,Illinois Welcoming Centers,Pui Tak Center,41.85255274,-87.63215152,"2216 S Wentworth Ave, Chicago, IL 60616",www.puitak.org,+1 312-328-1188
+8,Illinois Welcoming Centers,Chinese American Service League,41.85470039,-87.63557984,"2141 S Tan Ct, Chicago, IL 60616",www.caslservice.org,+1 312-791-0418
+9,Illinois Welcoming Centers,HANA Center,41.858968901021136,-87.66064478,"4300 N California Ave, Chicago, IL 60618",www.hanacenter.org,+1 773-583-5501
+10,Illinois Welcoming Centers,Casa Michoacan,41.858968901021136,-87.66064478,"1638 S Blue Island Ave, Chicago, IL 60608",www.facebook.com,+1 312-491-9317
+11,Illinois Welcoming Centers,Rincon Family Services,41.93138348,-87.76373656,"5457 W Diversey Ave, Chicago, IL 60639",https://www.rinconfamilyservices.org/,
+12,Illinois Welcoming Centers,Onward Neighborhood House,41.9357814,-87.75943219,"5413 W Diversey Ave, Chicago, IL 60639",www.onwardhouse.org,+1 773-622-3215
+13,Illinois Welcoming Centers,Vietnamese Association of Illinois,41.97523774,-87.66001804,"5110 N Broadway, Chicago, IL 60640",www.hnvi.org,+1 773-728-3700
+14,Illinois Welcoming Centers,Chinese Mutual Aid Association,41.97768677,-87.65575786,"1016 W Argyle St, Chicago, IL 60640",www.chinesemutualaid.org,+1 773-784-2900
+15,Illinois Welcoming Centers,Syrian Community Network (SCN),41.98119587,-87.65979166,"5439 N Broadway, Chicago, IL 60640",www.syriancommunitynetwork.org,+1 773-654-1218
+16,Illinois Welcoming Centers,Ethiopian Community Association of Chicago (ECAC),41.99144952,-87.70266965,"5800 N Lincoln Ave, Chicago, IL 60659",www.ecachicago.org,+1 773-508-0303
+17,Illinois Welcoming Centers,Muslim Women Resource Center,41.99784711,-87.70061876,"2828 W Devon Ave, Chicago, IL 60659",www.mwrcnfp.org,+1 773-764-1686
+18,Illinois Welcoming Centers,Middle Eastern Immigrant and Refugee Alliance,41.99833741,-87.70003559,"6420 N California Ave Upper A, Chicago, IL 60645",www.mirachicago.org,+1 773-409-4597

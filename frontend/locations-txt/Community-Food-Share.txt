@@ -1,0 +1,7 @@
+SNo,Resource ,Item,Latitude,Longitude ,Addreess,Website,Mobile
+1,In-Person Food Distributions,Gage Park Latinx Council Mercadito,41.80099265,-87.69206298,"2711 W 51st St, Chicago, IL 60632",,708-872-8798
+2,In-Person Food Distributions,BEET Chicago: North Lawndale,41.85206483,-87.72697454,"4056 W Cermak Rd, Chicago, IL 60623",https://www.instagram.com/beetchi_northlawndale/?img_index=1,
+3,In-Person Food Distributions,Humboldt Park Solidarity Network,41.91006868,-87.71538699,"3519 W North Ave, Chicago, IL 60647",,
+4,In-Person Food Distributions,Vietnamese Association of Illinois,41.97530952,-87.66002877,"5110 N Broadway, Chicago, IL 60640",www.hnvi.org,+1 773-728-3700
+5,In-Person Food Distributions,Rogers Park Free Store,42.0009691,-87.67114509,"6525 N Clark St, Chicago, IL 60626",https://www.instagram.com/rogersparkfreestore/,
+6,In-Person Food Distributions,Chicago Refugee Coalition,42.00316717,-87.66898097,"6631 N Bosworth Ave #107, Chicago, IL 60626",https://www.chicagorefugee.org/refugee-services.html,

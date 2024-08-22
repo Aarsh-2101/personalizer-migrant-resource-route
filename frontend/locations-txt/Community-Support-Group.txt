@@ -1,0 +1,19 @@
+SNo,Resource ,Item,Latitude,Longitude ,Addreess,Website,Mobile
+1,Mutual Aid Groups,McKinley Park Mutual Aid,41.831238709880300,-87.67349847,"McKinley Park, Chicago, IL",,312-772-4806
+2,Mutual Aid Groups,Pilsen Solidarity Network,41.85715235641380,-87.67202603,"1824 S Wood St, Chicago, IL 60608",,917-747-8651
+3,Mutual Aid Groups,WestSide Mutual Aid,41.87807952700710,-87.71780773,"West Side, Chicago, IL",,
+4,Mutual Aid Groups,Wicker Park – Bucktown Mutual Aid,41.90935411219400,-87.6772636,"Wicker Park, Chicago, IL",https://www.wickerparkmutualaid.org/get-help,773-273-9640
+4,Mutual Aid Groups,Wicker Park – Bucktown Mutual Aid,41.9214104,-87.68215475,"Bucktown, Chicago, IL",https://www.wickerparkmutualaid.org/get-help,773-273-9640
+5,Mutual Aid Groups,Logan Square Mutual Aid,41.92276830668040,-87.70904448,"Logan Square, Chicago, IL",,
+6,Mutual Aid Groups,Lakeview/Lincoln Park Mutual Aid,41.92464572270630,-87.6506708,"Lincoln Park, Chicago, IL",,312-775-2391
+6,Mutual Aid Groups,Lakeview/Lincoln Park Mutual Aid,41.94654180924320,-87.65597939,"Lake View, Chicago, IL",,312-775-2391
+7,Mutual Aid Groups,Avondale Mutual Aid,41.93950208,-87.71412723,"Avondale, Chicago, IL",,
+8,Mutual Aid Groups,Roscoe Village – North Center Mutual Aid,41.943289511409300,-87.68623656,"Roscoe Village, Chicago, IL",,312-857-4580
+8,Mutual Aid Groups,Roscoe Village – North Center Mutual Aid,41.95394497700860,-87.68856084,"North Center, Chicago, IL",,312-857-4580
+9,Mutual Aid Groups,Portage Park Mutual Aid Network,41.953037604545400,-87.76723878,"Portage Park, Chicago, IL",,312-854-9851
+10,Mutual Aid Groups,Irving Park Mutual Aid Network,41.954184860255000,-87.72503595,"Irving Park, Chicago, IL",,73-231-7310
+11,Mutual Aid Groups,Albany Park Mutual Aid,41.96721315317140,-87.71751925,"Albany Park, Chicago, IL",,312-854-9741
+12,Mutual Aid Groups,Lincoln Square Ravenswood Solidarity Network,41.96974677226110,-87.68967406,"Ravenswood, Chicago, IL",,224-458-4666
+13,Mutual Aid Groups,Jefferson & Gladstone Park Mutual Aid,41.98093941667540,-87.7759444,"Gladstone Park, Chicago, IL",,
+14,Mutual Aid Groups,Edgewater Mutual Aid Group,41.98350260067830,-87.66052523,"Edgewater, Chicago, IL",,312-324-4378
+15,Mutual Aid Groups,Edgebrook and Forest Glen Mutual Aid,41.99960790426820,-87.76394144,"Edgebrook, Chicago, IL",,

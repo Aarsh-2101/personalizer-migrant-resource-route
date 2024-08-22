@@ -1,0 +1,16 @@
+SNo,Resource ,Item,Latitude,Longitude ,Addreess,Website,Mobile
+1,Legal Assistance Providers,Instituto del Progreso Latino,41.84623081,-87.68566528,"2555 S Blue Island Ave, Chicago, IL 60608",www.institutochicago.org,+1 773-890-0055
+2,Legal Assistance Providers,"Erie Neighborhood House, Little Village",41.8460782,-87.73052208,"4225 W 25th St, Chicago, IL 60623",eriehouse.org,+1 773-542-7617
+3,Legal Assistance Providers,Children's Legal Center,41.85288633,-87.65367548,"1100 W Cermak Rd Suite 422, Chicago, IL 60608",www.childrenslegalcenterchicago.org,+1 312-722-6642
+4,Legal Assistance Providers,The Resurrection Project - Immigration Office,41.85767644,-87.66585242,"1805 S Ashland Ave, Chicago, IL 60608", https://trplegalservices.as.me/schedule.php ,312-666-3062
+5,Legal Assistance Providers,Binational Institute of Human Development,41.85923702,-87.69513886,"2751 W 16th St, Chicago, IL 60608",www.binationalinstitute.com,+1 312-772-3410
+6,Legal Assistance Providers,National Immigrant Justice Center,41.87873483,-87.62493313,"224 S Michigan Ave Ste 600, Chicago, IL 60604",www.immigrantjustice.org,+1 312-660-1370
+7,Legal Assistance Providers,JCFS Chicago,41.88118453,-87.63495663,"230 W Monroe St #1100, Chicago, IL 60606",www.jcfs.org,+1 312-357-4800
+8,Legal Assistance Providers,Beyond Legal Aid,41.88278437,-87.6273917,"17 N State St Ste #1380, Chicago, IL 60602",www.beyondlegalaid.org,+1 312-999-0056
+9,Legal Assistance Providers,Chicago Volunteer Legal Services,41.88345941,-87.62903177,"33 N Dearborn St Ste 400, Chicago, IL 60602",www.cvls.org,+1 312-332-1624
+10,Legal Assistance Providers,Metropolitan Family Services,41.88367685,-87.636383,"101 N Wacker Dr 17th Floor, Chicago, IL 60606",www.metrofamily.org,+1 312-986-4000
+11,Legal Assistance Providers,Legal Aid Chicago,41.8851609,-87.63210843,"120 S La Salle St #1710, Chicago, IL 60603",,312-341-1070
+12,Legal Assistance Providers,Ascend Justice,41.88559442,-87.62753524,"177 N State St #500, Chicago, IL 60601",https://www.ascendjustice.org/apply-for-services/,312-971-5932
+13,Legal Assistance Providers,HANA Center,41.95972447,-87.69863713,"4300 N California Ave, Chicago, IL 60618",www.hanacenter.org,+1 773-583-5501
+14,Legal Assistance Providers,Centro Romero,41.99518853,-87.67039828,"6216 N Clark St, Chicago, IL 60660",centroromero.org,+1 773-508-5300
+15,Legal Assistance Providers,Indo American Center,41.99674204,-87.69980597,"6328 N California Ave, Chicago, IL 60659",www.indoamerican.org,+1 773-973-4444 ext. 100
