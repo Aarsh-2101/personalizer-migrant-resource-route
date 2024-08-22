@@ -9,8 +9,8 @@ const PORT = 4000;
 app.use(cors());
 app.use(express.json());
 
-const GEOCODE_API_KEY = "66956b2dc241e143199341jtod3a958";
-const ORS_API_KEY = "5b3ce3597851110001cf62488975296a6ea948aba9386d93fbc4c870";
+const GEOCODE_API_KEY = process.env.GEOCODE_API_KEY;
+const ORS_API_KEY = process.env.ORS_API_KEY;
 
 const fetchGeocode = async (address) => {
   const { data } = await axios.get(`https://geocode.maps.co/search`, {
