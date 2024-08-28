@@ -1,23 +1,16 @@
-version: '1'
 services:
   frontend:
-    build:
-      context: ./frontend
-      dockerfile: Dockerfile
+    image: aarsh2101/personalized-migrant-resource-route-frontend:latest
     ports:
       - "5173:5173"
-    # volumes:
-    #   - ./frontend:/app
-    #   - /app/node_modules
-    depends_on:
-      - backend
+    environment:
+      NODE_ENV: production
 
   backend:
-    build:
-      context: ./backend
-      dockerfile: Dockerfile
+    image: aarsh2101/personalized-migrant-resource-route-backend:latest
     ports:
       - "4000:4000"
-    # volumes:
-    #   - ./backend:/app
-    #   - /app/node_modules
+    environment:
+      NODE_ENV: production
+      GEOCODE_API_KEY: ${GEOCODE_API_KEY}
+      ORS_API_KEY: ${ORS_API_KEY}
