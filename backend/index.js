@@ -9,12 +9,12 @@ const PORT = 4000;
 app.use(cors());
 app.use(express.json());
 
-const GEOCODE_API_KEY = process.env.GEOCODE_API_KEY;
-const ORS_API_KEY = process.env.ORS_API_KEY;
+const CUSTOMCONNSTR_GEOCODE_API_KEY = process.env.CUSTOMCONNSTR_GEOCODE_API_KEY;
+const CUSTOMCONNSTR_ORS_API_KEY = process.env.CUSTOMCONNSTR_ORS_API_KEY;
 
 const fetchGeocode = async (address) => {
   const { data } = await axios.get(`https://geocode.maps.co/search`, {
-    params: { q: address, api_key: GEOCODE_API_KEY },
+    params: { q: address, api_key: CUSTOMCONNSTR_GEOCODE_API_KEY },
   });
   return [data[0].lat, data[0].lon];
 };
@@ -30,7 +30,7 @@ const fetchIsochrone = async (lat, lon, mode, minutes) => {
       headers: {
         Accept:
           "application/json, application/geo+json, application/gpx+xml, img/png; charset=utf-8",
-        Authorization: `Bearer ${ORS_API_KEY}`,
+        Authorization: `Bearer ${CUSTOMCONNSTR_ORS_API_KEY}`,
         "Content-Type": "application/json; charset=utf-8",
       },
     }
