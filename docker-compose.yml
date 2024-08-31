@@ -1,5 +1,6 @@
 services:
   frontend:
+    platform: linux/amd64
     image: aarsh2101/personalized-migrant-resource-route-frontend:latest
     ports:
       - "5173:5173"
@@ -7,6 +8,7 @@ services:
       NODE_ENV: production
 
   backend:
+    platform: linux/amd64
     image: aarsh2101/personalized-migrant-resource-route-backend:latest
     ports:
       - "4000:4000"
